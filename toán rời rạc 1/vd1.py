@@ -1,0 +1,2 @@
+begin 
+   input a , b
